@@ -1,2 +1,3 @@
+*.pyc
+/cush
 *.o
-libspawn.a
